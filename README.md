@@ -69,3 +69,7 @@ Next we will be generating some security events using Nmap. run the command sudo
 ![elastic2 0 part 10](https://github.com/user-attachments/assets/a29354e1-9312-409f-afff-f917ba40d7d4)
 
 Now that we have created some events and generated data from Kali VM to the SIEM now we can query the logs. go back to your elastic page and in the top right go to Observability click logs then stream to view the logs you created.
+
+![elastic2 0 part 11](https://github.com/user-attachments/assets/f1a89008-086c-46da-a376-0d61f971667c)
+
+Now in the search bar type in process.args:"nmap" to search for the events using nmap
