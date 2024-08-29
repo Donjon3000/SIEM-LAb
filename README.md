@@ -37,3 +37,6 @@ The next step would be setup the kali VM I usally select 64bit and will be using
 
 
 Now open up whatever virtual platform your running configure the propritate setting to launch the Kali VM that you just dowmloaded. Use Kali for both username and password to make it simple.
+
+![elastic2 0 part 24](https://github.com/user-attachments/assets/e9dbb292-c6c0-4d57-a87d-2b4f2e90aa89)
+
