@@ -60,4 +60,9 @@ Before you run the command got to your VM and just run a simple Ping to make you
 
 ![elastic2 0 part 7](https://github.com/user-attachments/assets/c49b8460-b457-4167-a8c9-f9fd3e8b2f2b)
 
-In your terminal paste that command that you copied earlier and run it through for it to install. It should say elastic agent has been sucessfully installed.
+In your terminal paste that command that you copied earlier and run it through for it to install. It should say elastic agent has been sucessfully installed. you can run a command  sudo systemctl status elastic-agent.service to verify the installation.
+
+![elastic2 0 part 8](https://github.com/user-attachments/assets/0fb8c790-3770-4973-8484-bfbefd829d61)
+
+Next we will be generating some security events using Nmap. run the command sudo nmap ip to start generating some events. Then try out other commands such as sudo nmap -sS ip address and sudo nmap -sT ip address. these are used to detect open ports
+
