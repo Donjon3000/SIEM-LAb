@@ -80,6 +80,9 @@ Now lets create a dasboard to visualize the events. Go back to you SIEM hompage 
 
 ![elastic2 0 part 13](https://github.com/user-attachments/assets/2e46aac8-af50-4f4e-b57d-c6323557e6a0)
 
-in far right corner section that says Area go one column down and select metrics* then for the horizontal axis select timestamp and for the vertical axis select count. This will show the events over time
+In far right corner section that says Area go one column down and select metrics* then for the horizontal axis select timestamp and for the vertical axis select count. This will show the events over time
 
+![elastic2 0 part 14](https://github.com/user-attachments/assets/9f803b70-7f7e-4f1b-b733-83aa59578760)
+
+Now click save and return and give a title for your dashboard I named mine log/flow
 
