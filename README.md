@@ -40,3 +40,4 @@ Now open up whatever virtual platform your running configure the propritate sett
 
 ![elastic2 0 part 24](https://github.com/user-attachments/assets/e9dbb292-c6c0-4d57-a87d-2b4f2e90aa89)
 
+side not make sure before you launch the VM to go advanced settings and set the copy and paste function to Bidrectional. you will need this function enabled later on.
