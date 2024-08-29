@@ -99,3 +99,9 @@ As you can see my dashboard is there for display under the home tab.
 Now lets create some alerts to monitor and detect Nmap scans. Under Security select alerts and click manage rules and create new rule.
 
 ![elastic2 0 part 18](https://github.com/user-attachments/assets/fb5912d4-b9f7-469f-975b-e9af00debb8b)
+
+Now under define rule select custom query
+
+![elastic2 0 part 19](https://github.com/user-attachments/assets/168fb6df-0a80-4250-a003-6bad3fb2d726)
+
+Now scroll down to the custom query search bar and type in event.action: "nmap_scan".
