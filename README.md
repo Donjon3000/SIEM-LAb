@@ -66,3 +66,6 @@ In your terminal paste that command that you copied earlier and run it through f
 
 Next we will be generating some security events using Nmap. run the command sudo nmap ip to start generating some events. Then try out other commands such as sudo nmap -sS ip address and sudo nmap -sT ip address. these are used to detect open ports
 
+![elastic2 0 part 10](https://github.com/user-attachments/assets/a29354e1-9312-409f-afff-f917ba40d7d4)
+
+Now that we have created some events and generated data from Kali VM to the SIEM now we can query the logs. go back to your elastic page and in the top right go to Observability click logs then stream to view the logs you created.
