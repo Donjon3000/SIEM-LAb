@@ -24,3 +24,6 @@ In this project Ill be showing a basic understaning on collecting log and creati
 first sign up for a free elastic account the trial should be good for 7 days
 
 ![elastic2 0 part 1](https://github.com/user-attachments/assets/bc969e2d-eddb-46f4-8947-8690aadd593c)
+
+After you have signed up next step will be to create your first deployment. I usually leave everthing as is exccept for the region
+
