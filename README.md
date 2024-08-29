@@ -86,3 +86,7 @@ In far right corner section that says Area go one column down and select metrics
 
 Now click save and return and give a title for your dashboard I named mine log/flow
 
+![elastic2 0 part 15](https://github.com/user-attachments/assets/437c8775-9717-409f-9e9e-78ca6a4dd487)
+
+Now go to the top right corner and click save to finally create your dashboard.
+
