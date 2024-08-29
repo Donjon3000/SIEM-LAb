@@ -33,3 +33,4 @@ The next step would be setup the kali VM I usally select 64bit and will be using
 
 ![elastic2 0 part 3](https://github.com/user-attachments/assets/83e6d483-43d9-4760-b54c-55bcdb4a6b10)
 
+![elastic2 0 part 23](https://github.com/user-attachments/assets/876d1624-eae0-415c-a3d3-c93d7ee4a400)
