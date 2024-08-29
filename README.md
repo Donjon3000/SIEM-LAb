@@ -9,7 +9,7 @@ In this project Ill be showing a basic understaning on collecting log and creati
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
 - <b>Kali linux</b> 
 - <b>Virutalbox</b>
