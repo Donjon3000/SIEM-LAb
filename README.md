@@ -105,3 +105,8 @@ Now under define rule select custom query
 ![elastic2 0 part 19](https://github.com/user-attachments/assets/168fb6df-0a80-4250-a003-6bad3fb2d726)
 
 Now scroll down to the custom query search bar and type in event.action: "nmap_scan".
+
+![elastic2 0 part 20](https://github.com/user-attachments/assets/4283184e-9926-4aec-9fd8-90cb6665565f)
+
+scroll down to about rule and give your rule a name and description and select a level of serverity.
+
