@@ -98,3 +98,4 @@ As you can see my dashboard is there for display under the home tab.
 
 Now lets create some alerts to monitor and detect Nmap scans. Under Security select alerts and click manage rules and create new rule.
 
+![elastic2 0 part 18](https://github.com/user-attachments/assets/fb5912d4-b9f7-469f-975b-e9af00debb8b)
