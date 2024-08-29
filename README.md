@@ -57,3 +57,7 @@ Then click to install the elastic agent. After that copy that linux command to u
 ![elastic2 0 part 6](https://github.com/user-attachments/assets/9e3ba019-dab2-4b4f-9535-f4d0c61d6592)
 
 Before you run the command got to your VM and just run a simple Ping to make your VM is connecting to the internet.
+
+![elastic2 0 part 7](https://github.com/user-attachments/assets/c49b8460-b457-4167-a8c9-f9fd3e8b2f2b)
+
+In your terminal paste that command that you copied earlier and run it through for it to install. It should say elastic agent has been sucessfully installed.
