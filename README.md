@@ -90,3 +90,7 @@ Now click save and return and give a title for your dashboard I named mine log/f
 
 Now go to the top right corner and click save to finally create your dashboard.
 
+![elastic2 0 part 16](https://github.com/user-attachments/assets/926d0adb-f5bd-407b-bf33-b579f15b8e1c)
+
+As you can see my dashboard is there for display under the home tab.
+
