@@ -27,3 +27,4 @@ first sign up for a free elastic account the trial should be good for 7 days
 
 After you have signed up next step will be to create your first deployment. I usually leave everthing as is exccept for the region
 
+![elastic2 0 part 2](https://github.com/user-attachments/assets/0e0adccd-1d38-4559-899d-dfaeefc81458)
