@@ -49,3 +49,7 @@ After getting your Kali VM setup and logged in go back to the ELastic deployment
 ![elastic2 0 part 4](https://github.com/user-attachments/assets/dcf37c20-ccaa-40f7-95f4-b50ae7f802bb)
 
 Next step is to click on elastic defend
+
+![elastic2 0 part 5](https://github.com/user-attachments/assets/d121bb4e-e11b-4032-a2cd-06f08d4d1f83)
+
+then click to install the elastic agent 
