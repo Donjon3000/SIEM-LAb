@@ -41,3 +41,7 @@ Now open up whatever virtual platform your running configure the propritate sett
 ![elastic2 0 part 24](https://github.com/user-attachments/assets/e9dbb292-c6c0-4d57-a87d-2b4f2e90aa89)
 
 side not make sure before you launch the VM to go advanced settings and set the copy and paste function to Bidrectional. you will need this function enabled later on.
+
+![elastic2 0 part 25](https://github.com/user-attachments/assets/51751f5e-45c4-46c2-89a3-8a7215ab054d)
+
+After getting your Kali VM setup and logged in go back to the ELastic deployment. got to the home page and then click Add Integrations at the bottom left corner.
