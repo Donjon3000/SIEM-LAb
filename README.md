@@ -30,3 +30,6 @@ After you have signed up next step will be to create your first deployment. I us
 ![elastic2 0 part 2](https://github.com/user-attachments/assets/0e0adccd-1d38-4559-899d-dfaeefc81458)
 
 The next step would be setup the kali VM I usally select 64bit and will be using vituralbox to launch the VM. 
+
+![elastic2 0 part 3](https://github.com/user-attachments/assets/83e6d483-43d9-4760-b54c-55bcdb4a6b10)
+
