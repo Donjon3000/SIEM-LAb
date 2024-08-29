@@ -45,3 +45,7 @@ side not make sure before you launch the VM to go advanced settings and set the 
 ![elastic2 0 part 25](https://github.com/user-attachments/assets/51751f5e-45c4-46c2-89a3-8a7215ab054d)
 
 After getting your Kali VM setup and logged in go back to the ELastic deployment. got to the home page and then click Add Integrations at the bottom left corner.
+
+![elastic2 0 part 4](https://github.com/user-attachments/assets/dcf37c20-ccaa-40f7-95f4-b50ae7f802bb)
+
+Next step is to click on elastic defend
