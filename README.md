@@ -72,4 +72,13 @@ Now that we have created some events and generated data from Kali VM to the SIEM
 
 ![elastic2 0 part 11](https://github.com/user-attachments/assets/f1a89008-086c-46da-a376-0d61f971667c)
 
-Now in the search bar type in process.args:"nmap" to search for the events using nmap
+Now in the search bar type in process.args:"nmap" to search for the events in look into the details of the events ex incorrect login attempts or ssh logins show how incidents are detected.
+
+![elastic2 0 part 26](https://github.com/user-attachments/assets/3015795e-98db-4c0d-aa69-ba9fdafc94a5)
+
+Now lets create a dasboard to visualize the events. Go back to you SIEM hompage an click analystics and click dashboard then click create visualization.
+
+
+
+
+
