@@ -94,3 +94,7 @@ Now go to the top right corner and click save to finally create your dashboard.
 
 As you can see my dashboard is there for display under the home tab.
 
+![elastic2 0 part 17](https://github.com/user-attachments/assets/75f8858d-09ad-466e-96de-a9d49d920ffd)
+
+Now lets create some alerts to monitor and detect Nmap scans
+
