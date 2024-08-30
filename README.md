@@ -113,3 +113,4 @@ scroll down to about rule and give your rule a name and description and select a
 ![elastic2 0 part 21](https://github.com/user-attachments/assets/656e7a65-c56d-4099-9df0-457476ccd7d0)
 
 After that leave the default settings for schedule rule. the for rule actions select a connector type of your choosing for when a rule is triggered. Ill be using email connection. after choosing a connector click create and enable rule. 
+
