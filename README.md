@@ -114,3 +114,8 @@ scroll down to about rule and give your rule a name and description and select a
 
 After that leave the default settings for schedule rule. the for rule actions select a connector type of your choosing for when a rule is triggered. Ill be using email connection. after choosing a connector click create and enable rule. 
 
+![elastic2 0 part 27](https://github.com/user-attachments/assets/fcbdd1ff-0518-43f3-9c24-0713dd16bb2e)
+
+Now we have finally created an alert to monitor logs for Nmap events
+
+
