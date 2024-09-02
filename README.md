@@ -120,3 +120,4 @@ Now we have finally created an alert to monitor logs for Nmap events
 
 ![elastic2 0 part 22](https://github.com/user-attachments/assets/828730aa-ab7a-4604-87b7-3d2473b8bb6b)
 
+Through this lab I have showed how to generate security events through a Kali VM Using Nmap and then querying and sending the data to an Elastic SIEM. Then created a visual dashboard for the events and created a an alert to detect nmap scans.
