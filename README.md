@@ -1,11 +1,10 @@
-# SIEM-LAb
 
 <h1>SIEM Lab</h1>
 
  ### 
 
 <h2>Description</h2>
-In this project Ill be showing a basic understaning on collecting log and creating Alerets using elastic SIEM
+In this project Ill be showing a basic understaning on collecting logs and creating alerts using elastic SIEM.
 <br />
 
 
