@@ -20,7 +20,7 @@ In this project Ill be showing a basic understaning on collecting logs and creat
 <h2>Program walk-through:</h2>
 
 <p align="center">
-first sign up for a free elastic account the trial should be good for 7 days.
+First sign up for a free elastic account the trial should be good for 7 days.
 
 ![elastic2 0 part 1](https://github.com/user-attachments/assets/bc969e2d-eddb-46f4-8947-8690aadd593c)
 
